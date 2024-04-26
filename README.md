@@ -12,5 +12,5 @@
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kalehege&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
+<img src="https://komarev.com/ghpvc/?username=kalehegec&style=flat-square&color=yellow" alt="" width="15%" height="15%"/>
 </div>
