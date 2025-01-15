@@ -6,7 +6,9 @@
 <div align="center">
   
 ![niZeo snake gif](https://github.com/kalehege/kalehege/blob/main/github-contribution-grid-snake.svg)
-  
+
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+
 ![niZeo moon gif](https://github.com/kalehege/kalehege/blob/main/222116638-e3cc24dd-28db-483c-8ce6-e8b9941f0734.gif)
 
 </div>
