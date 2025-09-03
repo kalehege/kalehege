@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![niZeo snake gif](https://github.com/kalehege/kalehege/blob/main/github-contribution-grid-snake.svg)
+![niZeo snake gif](https://github.com/kalehege/kalehege/blob/main/github-user-contribution.svg)
 
 ![niZeo gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
